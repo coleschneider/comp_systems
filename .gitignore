@@ -1,0 +1,9 @@
+#default
+.DS_STORE
+
+
+#weird java stuff
+
+
+.vscode/*
+

@@ -4,19 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="cs330"/>
         <group>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/Util.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/TDotCommand.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/TInvalid.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/LexState.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/TInteger.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/Tokenizer.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/TAddress.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/TEmpty.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/TIdentifier.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/THexConstant.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/Prob0719Main.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/InBuffer.java</file>
-            <file>file:/Users/coleschneider/Desktop/cosc330/Prob0719/src/prob0719/AToken.java</file>
+            <file>file:/Users/coleschneider/Desktop/comp_systems/src/prob0719/THexConstant.java</file>
+            <file>file:/Users/coleschneider/Desktop/comp_systems/src/prob0719/Prob0719Main.java</file>
+            <file>file:/Users/coleschneider/Desktop/comp_systems/src/prob0719/Tokenizer.java</file>
+            <file>file:/Users/coleschneider/Desktop/comp_systems/src/prob0719/TInvalid.java</file>
         </group>
     </open-files>
 </project-private>
